@@ -1,4 +1,5 @@
 # D3 Homework - Data Journalism and D3
+Demo: https://hej6853.github.io/D3.js_Challenge-data_journalism/
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
